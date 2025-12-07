@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919913935490",
+    "project_id": "notifications-59ca1",
+    "storage_bucket": "notifications-59ca1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919913935490:android:7f1bcfcbd8f67448acfa9b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf_abPeB1Y4ZP4SV6MA3OUHM-zLJwu0pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
